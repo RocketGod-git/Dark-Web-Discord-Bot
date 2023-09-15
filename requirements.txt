@@ -1,0 +1,4 @@
+discord
+aiohttp
+beautifulsoup4
+selenium
