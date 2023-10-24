@@ -99,7 +99,7 @@ class aclient(discord.Client):
     def __init__(self) -> None:
         super().__init__(intents=discord.Intents.default())
         self.tree = discord.app_commands.CommandTree(self)
-        self.activity = discord.Activity(type=discord.ActivityType.watching, name="dark web")
+        self.activity = discord.Activity(type=discord.ActivityType.watching, name="/onion")
         self.discord_message_limit = 2000
 
 async def handle_errors(interaction, error, error_type="Error"):
