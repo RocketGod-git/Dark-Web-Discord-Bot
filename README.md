@@ -60,4 +60,4 @@ Before installing the bot, ensure you have the correct version of `chromedriver`
 
 This project is licensed under the GNU GPLv3 - see the [LICENSE](LICENSE) file for details.
 
-![rocketgod_logo](https://github.com/RocketGod-git/shodanbot/assets/57732082/7929b554-0fba-4c2b-b22d-6772d23c4a18)
+![RocketGod](https://github.com/RocketGod-git/Flipper_Zero/assets/57732082/f5d67cfd-585d-4b23-905f-37151e3d6a7d)
